@@ -9,6 +9,8 @@
   width: 100%;
   text-align: center;
   display: flex;
+  flex-derection: rom;
+  flex-wrap: wrap;
 }
 .kontainer ul{
   display: flex;
